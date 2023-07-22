@@ -7,7 +7,6 @@ static void printPattern(int radius) {
 
 	// dist represents distance to the center
 	double dist;
-
 	// for horizontal movement
 	for (int i = 0; i <= 2 * radius; i++) {
 
