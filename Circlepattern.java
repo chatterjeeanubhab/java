@@ -9,8 +9,7 @@ static void printPattern(int radius) {
 	double dist;
 	// for horizontal movement
 	for (int i = 0; i <= 2 * radius; i++) {
-
-	// for vertical movement
+         // for vertical movement
 	for (int j = 0; j <= 2 * radius; j++) {
 		dist = Math.sqrt((i - radius) * (i - radius) +
 						(j - radius) * (j - radius));
