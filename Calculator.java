@@ -9,7 +9,6 @@ class Calculate
 			sum=sum+arr[i];
 		}
 		System.out.println(sum);
-
 	}
 	public void substraction(int[] arr,int n)
 	{
