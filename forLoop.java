@@ -1,6 +1,6 @@
  class forl
  {
- 	int n=10;
+  	int n=10;
  	for1(String a)
  	{
  		int n=5;
