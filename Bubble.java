@@ -9,7 +9,6 @@ class BubbySort{
 					ar[i]= ar[j];
 					ar[j]= temp;
 				}
-				
 			}
 	}
 	void show(int[] ar,int n){
