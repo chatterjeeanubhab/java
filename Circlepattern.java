@@ -1,5 +1,4 @@
 // Java implementation to print circle pattern
-
 class CirclePattern {
 	
 // function to print circle pattern
