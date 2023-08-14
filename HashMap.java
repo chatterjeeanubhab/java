@@ -7,6 +7,5 @@ public class HashMap {
         map.put("Shyam",2);
         map.put("Jadu",3);
         System.out.println(map);
-    }
-    
+    } 
 }
