@@ -1,6 +1,5 @@
 // Java implementation to print circle pattern
-class CirclePattern {
-	
+class CirclePattern {	
 // function to print circle pattern
 static void printPattern(int radius) {
 
