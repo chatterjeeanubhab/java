@@ -3,7 +3,7 @@ class Test
 {
 	 void m(int[] arr,int n){
 		
-		System.out.println("Elements are...");
+	System.out.println("Elements are...");
 		for(int i=0;i<n;i++)
 		{
 			System.out.println(arr[i]);
